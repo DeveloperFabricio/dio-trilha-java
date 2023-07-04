@@ -1,0 +1,50 @@
+// classe Operadores Java
+
+String nome = "Fabricio";
+int idade = 22;
+double peso = 68.5;
+char sexo = "M";
+boolean doadorOrgao = false;
+Date dataNascimento = new Date();
+
+// classe Operadores Aritméticos
+
+double soma = 10.5 + 15.7;
+int subtracao = 113 - 25;
+int multiplicacao = 20 * 7;
+int divisao = 15 / 3;
+int modulo = 18 % 3;
+double resultado = (10 * 7) + (20 / 4);
+
+// Concatenação
+
+String nomeCompleto = "Linguagem" + "Java"
+
+// Operadores Unários
+
+// Operadores Tenários 
+
+Representada pelo símbolo ?
+
+int a,b;
+
+a = 5;
+b = 6;
+
+String resultado = a==b ? "Verdadeiro" : " Falso ";
+
+// Relacionais
+
+== igual
+!= diferente
+> maior
+>= maior ou igual
+< menor
+<= menor ou igual
+
+equals - compara conteudos
+
+// Lógicos
+
+&& Operador Lógicos "E"
+|| Operador Lógicos "OU"

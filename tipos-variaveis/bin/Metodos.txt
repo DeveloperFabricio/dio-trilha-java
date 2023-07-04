@@ -1,0 +1,13 @@
+// Métodos
+
+Deve ser nomeado como verbos
+Seguir camelCase (minuscula e maiscula)
+
+exemplos:
+
+somar(int n1, int n2)
+abrirConcexao()
+concluirProcessamento()
+findByld(int id)
+calcularImprimir(ou ele calcula ou imprime)
+

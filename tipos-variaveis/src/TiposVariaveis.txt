@@ -1,0 +1,28 @@
+int, byte, short, long, float, double, boolean e char - esses tipos não considerados objetos, e portanto representam valores brutos.
+
+O mais comum é usar int (utilizado pela JVM)
+
+Partes fracionárias ( float, double)
+
+O mais comum é o tipo double (em projetos)
+
+
+Declaração de Variáveis
+
+int idade; quando não informa o valor deve ser 0;
+
+int anoFabricacao = 2023 // tipo int, nome "anoFabricacao", valor 2023.
+
+// TiposEVariaveis.java
+
+short numeroCurto = 1;
+int numeroNormal = numeroCurto;
+short numeroCurto2 = numeroNormal;
+
+
+// Variáveis e Constantes
+
+Constantes são sempre escritas em CAIXA ALTA;
+e sempre com a paravra final antes.
+
+final VALOR_DE_PI = 3.14;
