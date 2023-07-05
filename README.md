@@ -1,3 +1,3 @@
 # dio-trilha-java
 
-## Repositório para exemplos do curso de Java pela DIO.
+## Repositório para treinamento do curso de Java ministrado pela DIO.
