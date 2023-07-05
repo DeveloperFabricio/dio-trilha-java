@@ -1,0 +1,49 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe.AboutMe",
+      "projectName": "dio-trilha-java_fb331551"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "dio-trilha-java_fb331551"
+    },
+    {
+      "type": "java",
+      "name": "Operadores",
+      "request": "launch",
+      "mainClass": "Operadores",
+      "projectName": "dio-trilha-java_fb331551"
+    },
+    {
+      "type": "java",
+      "name": "TiposVariaveis",
+      "request": "launch",
+      "mainClass": "TiposVariaveis",
+      "projectName": "dio-trilha-java_fb331551"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "dio-trilha-java_fb331551"
+    }
+  ]
+}
